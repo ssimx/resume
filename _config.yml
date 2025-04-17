@@ -100,6 +100,7 @@ content:
           There's many more smaller projects which you can find on my Github.
 
   - title: Skills
+    layout: text
     content: | # this will include new lines to allow paragraphs
       - Javascript
       - Typescript
