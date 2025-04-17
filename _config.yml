@@ -95,9 +95,29 @@ content:
 
           App Images:
 
-
+      - layout: top-middle
+        quote: >
           There's many more smaller projects which you can find on my Github.
 
+  - title: Skills
+    content: | # this will include new lines to allow paragraphs
+      - Javascript
+      - Typescript
+      - NodeJs
+      - ExpressJs
+      - PostgreSQL
+      - SQL
+      - Prisma ORM
+      - TailwindCSS
+      - CSS
+      - React
+      - NextJs
+      - Git
+      - C
+      - Python
+      - Linux
+      - Windows Server
+      - Communications and Networks
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -119,7 +139,10 @@ content:
       - layout: left
         title: Harvard University CS50x
         link: cs50.harvard.edu/x/2025
-        # link_text: boringcompany.com
+        additional_links:
+          - title: Certificate
+            icon: fa-solid fa-certificate
+            url: https://certificates.cs50.io/8088c9a7-f1c2-4732-ac2b-6e213eb3e047.pdf?size=letter
         sub_title: Low-level coding
         caption: January 2024 - April 2024
         quote: >
@@ -133,8 +156,6 @@ content:
 
           This is why I fell in love with CS50x. After I completed it, I didn't just learn C, I learned how to program. 
           This foundation enabled me to teach myself JavaScript, and I'm confident I would be able to learn and handle any other programming language.
-          
-          Certificate: https://certificates.cs50.io/8088c9a7-f1c2-4732-ac2b-6e213eb3e047.pdf?size=letter
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -158,10 +179,9 @@ content:
       fundamental concepts and applications and to earn money of course.
 
       Some things I did:
-
-      📚 Read up about how blockchain works, Bitcoin, NFTs, Play-To-Earn, DAOs, …
-      🪙 Earn a living by trading coins and NFTs
-      ⛓ Wrote an NFT contract in Solidity and deployed it on the Ethereum network
+      - Read up about how blockchain works, Bitcoin, NFTs, Play-To-Earn, DAOs, …
+      - Earn a living by trading coins and NFTs
+      - Wrote an NFT contract in Solidity and deployed it on the Ethereum network
 
       During this time, I got to talk to and learn from some really smart folks in the crypto world.
 
