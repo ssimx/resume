@@ -29,7 +29,7 @@ additional_links:
 #   url: Link url (eg. https://google.com)
 
 # About Section
-about_title: O meni
+about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Simon and I'm a junior full stack web developer. As well as making web apps I also have experience as a system administrator. 
@@ -38,7 +38,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>NextJs</mark> and lifting weights
 
 content:
-  - title: Projekti # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -56,8 +56,44 @@ content:
           Full stack social media application that replicates X's (formerly known as Twitter) core functionality
         description: | # this will include new lines to allow paragraphs
           I started this project with the intention of expanding my knowledge of <mark>React</mark> by learning one of the modern frameworks, and I decided on <mark>NextJs</mark>, as it is currently very popular.
-          In addition to front-end programming, I was also interested in the back-end, so I decided to implement a separate API using <mark>NodeJs</mark> & ExpressJs and <mark>PostgreSQL</mark> & Prisma ORM tech stack.
+          In addition to front-end programming, I was also interested in the back-end, so I decided to implement a separate API using <mark>NodeJs</mark> & <mark>ExpressJs</mark> and <mark>PostgreSQL</mark> & <mark>Prisma ORM</mark> tech stack.
+          Until this point, I was using Javascript for all my projects but for this project, I decided to take a step forward and learn <mark>Typescript</mark>.
           It took me 6 months to build this application, and it has grown into a fully fledged app. I have learned many new skills and I am very proud to be able to show a slightly more serious project in my portfolio.
+          
+          App Video Demo:
+          App Images:
+
+      - layout: top-middle
+        title: Game Store
+        link: fastidious-kitsune-896a2e.netlify.app
+        # link_text: Project Website
+        additional_links:
+          - title:  ssimx/games-store
+            icon: fab fa-github
+            url: github.com/ssimx/games-store
+        quote: >
+          Front end application that replicates Epic Games Store design
+        description: | # this will include new lines to allow paragraphs
+          After more than half a year of learning vanilla Javascript, I started this project as an introduction to the front-end world of the web development by using the most popular JS library - <mark>React</mark>.
+          The app was built by using <mark>Vite</mark> framework and there is no back-end so it's not fully functional but it does have a beautiful modern design.
+
+          App Images:
+      
+      - layout: top-middle
+        title: Weather App
+        link: 
+        # link_text: Project Website
+        additional_links:
+          - title:  ssimx/weather-app
+            icon: fab fa-github
+            url: github.com/ssimx/weather-app
+        quote: >
+          Vanilla Javascript application that replicates Apple Weather design
+        description: | # this will include new lines to allow paragraphs
+          This project is where I believe I "mastered" <mark>vanilla JS</mark>. I must admit that I'm very proud of this project. 
+          In my opinion, this is what allows me to say that unlike other junior developers who only know how to "React", I actually know how to "JavaScript".
+
+          App Images:
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
