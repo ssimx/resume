@@ -141,7 +141,6 @@ content:
         link: cs50.harvard.edu/x/2025
         additional_links:
           - title: Certificate
-            icon: fa-solid fa-certificate
             url: https://certificates.cs50.io/8088c9a7-f1c2-4732-ac2b-6e213eb3e047.pdf?size=letter
         sub_title: Low-level coding
         caption: January 2024 - April 2024
