@@ -105,20 +105,36 @@ content:
       - layout: top-middle
         quote: >
           Javascript - Typescript 
+      
+      - layout: top-middle
         quote: >
           NodeJs - ExpressJs
+      
+      - layout: top-middle
         quote: >
           React - NextJs
+      
+      - layout: top-middle
         quote: >
           PostgreSQL - SQL - Prisma ORM
+      
+      - layout: top-middle
         quote: >
           TailwindCSS - CSS
+      
+      - layout: top-middle
         quote: >
           Git
+      
+      - layout: top-middle
         quote: >
           C - Python
+      
+      - layout: top-middle
         quote: >
           Linux - Windows Server
+      
+      - layout: top-middle
         quote: >
           Communications and Networks
 
