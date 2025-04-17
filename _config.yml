@@ -102,22 +102,14 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Javascript
-      - Typescript
-      - NodeJs
-      - ExpressJs
-      - PostgreSQL
-      - SQL
-      - Prisma ORM
-      - TailwindCSS
-      - CSS
-      - React
-      - NextJs
+      - Javascript - Typescript 
+      - NodeJs - ExpressJs
+      - PostgreSQL - SQL - Prisma ORM
+      - TailwindCSS - CSS
+      - React - NextJs
       - Git
-      - C
-      - Python
-      - Linux
-      - Windows Server
+      - C - Python
+      - Linux - Windows Server
       - Communications and Networks
 
   - title: Experience # Title for the section
