@@ -29,13 +29,16 @@ additional_links:
 #   url: Link url (eg. https://google.com)
 
 # About Section
-# about_title: About Me
+about_title: O meni
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Živijo, ime mi je Simon in sem Junior Full Stack Web Developer. Poleg programiranja, imam izkušnje tudi kot sistemski administrator.
+  Hi, my name's Simon and I'm a junior full stack web developer. As well as making web apps I also have experience as a system administrator. 
+  As a high school student, I attended many startup events, where I learned how to be a team player.
+
+  I am most skilled in: <mark>NextJs</mark> and lifting weights
 
 content:
-  - title: Projects # Title for the section
+  - title: Projekti # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -50,11 +53,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Sodobna aplikacija za družbena omrežja, ki posnema osnovno funkcionalnost X-a (prej znanega kot Twitter)
+          Full stack social media application that replicates X's (formerly known as Twitter) core functionality
         description: | # this will include new lines to allow paragraphs
-          Ta projekt sem zaštartal z namenom, da bi razširil znanje o Reactu z učenjem enega izmed sodobnih frameworkov in sicer odločil sem se za NextJs, saj je trenutno zelo "in".
-          Poleg front-end programiranja sem se zanimal tudi za back-end, zato sem se odločil za implementacijo ločenega API-ja z uporabo NodeJs & ExpressJs in PostgreSQL & Prisma ORM tech stacka.
-          Za izdelavo te aplikacije sem potreboval 6 mesecev, naučil sem se veliko novih veščin in zelo sem ponosen, da lahko prikažem malo bolj resen projekt v svojem portfelju.
+          I started this project with the intention of expanding my knowledge of <mark>React</mark> by learning one of the modern frameworks, and I decided on <mark>NextJs</mark>, as it is currently very popular.
+          In addition to front-end programming, I was also interested in the back-end, so I decided to implement a separate API using <mark>NodeJs</mark> & ExpressJs and <mark>PostgreSQL</mark> & Prisma ORM tech stack.
+          It took me 6 months to build this application, and it has grown into a fully fledged app. I have learned many new skills and I am very proud to be able to show a slightly more serious project in my portfolio.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
