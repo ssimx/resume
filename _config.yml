@@ -103,15 +103,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        description: | # this will include new lines to allow paragraphs
+        quote: | # this will include new lines to allow paragraphs
           Javascript - Typescript 
+
           NodeJs - ExpressJs
+
           React - NextJs
+
           PostgreSQL - SQL - Prisma ORM
+
           TailwindCSS - CSS
+
           Git
+
           C - Python
+
           Linux - Windows Server
+          
           Communications and Networks
 
   - title: Experience # Title for the section
