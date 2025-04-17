@@ -95,9 +95,9 @@ content:
 
           App Images:
 
-         
 
-          There's many more smaller projects which you can find on my Github.
+    There's many more smaller projects which you can find on my Github.
+    
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -117,7 +117,7 @@ content:
           I cannot stress enough how important this course is if you're a self-learner aiming to become a web developer.
 
       - layout: left
-        title: Harvard University: CS50x
+        title: Harvard University CS50x
         link: cs50.harvard.edu/x/2025
         # link_text: boringcompany.com
         sub_title: Low-level coding
