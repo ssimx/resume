@@ -60,7 +60,10 @@ content:
           Until this point, I was using Javascript for all my projects but for this project, I decided to take a step forward and learn <mark>Typescript</mark>.
           It took me 6 months to build this application, and it has grown into a fully fledged app. I have learned many new skills and I am very proud to be able to show a slightly more serious project in my portfolio.
           
-          App Video Demo:
+        additional_links:
+          - title:  ssimx/tweetly
+            url: github.com/ssimx/tweetly
+          App Video Demo: 
           App Images:
 
       - layout: top-middle
@@ -104,39 +107,15 @@ content:
     content:
       - layout: top-middle
         quote: >
-          Javascript - Typescript 
-      
-      - layout: top-middle
-        quote: >
-          NodeJs - ExpressJs
-      
-      - layout: top-middle
-        quote: >
-          React - NextJs
-      
-      - layout: top-middle
-        quote: >
-          PostgreSQL - SQL - Prisma ORM
-      
-      - layout: top-middle
-        quote: >
-          TailwindCSS - CSS
-      
-      - layout: top-middle
-        quote: >
-          Git
-      
-      - layout: top-middle
-        quote: >
-          C - Python
-      
-      - layout: top-middle
-        quote: >
-          Linux - Windows Server
-      
-      - layout: top-middle
-        quote: >
-          Communications and Networks
+          Javascript - Typescript - 
+          NodeJs - ExpressJs - 
+          React - NextJs - 
+          PostgreSQL - SQL - Prisma ORM - 
+          TailwindCSS - CSS - 
+          Git - 
+          C - Python - 
+          Linux - Windows Server - 
+          Communications and Networks - 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -158,9 +137,8 @@ content:
       - layout: left
         title: Harvard University CS50x
         link: cs50.harvard.edu/x/2025
-        additional_links:
-          - title: Certificate
-            url: https://certificates.cs50.io/8088c9a7-f1c2-4732-ac2b-6e213eb3e047.pdf?size=letter
+        link: https://certificates.cs50.io/8088c9a7-f1c2-4732-ac2b-6e213eb3e047.pdf?size=letter
+        link_text: Certificate
         sub_title: Low-level coding
         caption: January 2024 - April 2024
         quote: >
