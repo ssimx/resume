@@ -1,33 +1,23 @@
 # Site
-repository: sproogen/resume-theme
+repository: ssimx/resume
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Simon Simić
+title: Full Stack Web Developer
+email: simicsimon99@gmail.com
+website: 
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+github_username:  ssimx
+instagram_username: simonsimic_
+linkedin_username: simon-simic
 
 # Additional icon links
 additional_links:
@@ -38,39 +28,33 @@ additional_links:
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Živijo, ime mi je Simon in sem Junior Full Stack Web Developer. Poleg programiranja, imam izkušnje tudi kot sistemski administrator.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Tweetly
+        link: tweetly-ten.vercel.app
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  ssimx/tweetly
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/ssimx/tweetly
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Sodobna aplikacija za družbena omrežja, ki posnema osnovno funkcionalnost X-a (prej znanega kot Twitter)
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Ta projekt sem zaštartal z namenom, da bi razširil znanje o Reactu z učenjem enega izmed sodobnih frameworkov in sicer odločil sem se za NextJs, saj je trenutno zelo "in".
+          Poleg front-end programiranja sem se zanimal tudi za back-end, zato sem se odločil za implementacijo ločenega API-ja z uporabo NodeJs & ExpressJs in PostgreSQL & Prisma ORM tech stacka.
+          Za izdelavo te aplikacije sem potreboval 6 mesecev, naučil sem se veliko novih veščin in zelo sem ponosen, da lahko prikažem malo bolj resen projekt v svojem portfelju.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
