@@ -60,9 +60,11 @@ content:
           Until this point, I was using Javascript for all my projects but for this project, I decided to take a step forward and learn <mark>Typescript</mark>.
           It took me 6 months to build this application, and it has grown into a fully fledged app. I have learned many new skills and I am very proud to be able to show a slightly more serious project in my portfolio.
           
-          App Video Demo: https://youtu.be/qUnlPEq49bY
+          [App Video Demo](https://youtu.be/qUnlPEq49bY "Youtube") 
 
-          App Images: https://imgur.com/a/zHOiyAa
+          [App Images](https://imgur.com/a/zHOiyAa "Imgur")
+
+          ![App preview](https://i.imgur.com/prkdCjV.png "App preview")
 
       - layout: top-middle
         title: Game Store
@@ -192,7 +194,7 @@ content:
       - Gaming
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
