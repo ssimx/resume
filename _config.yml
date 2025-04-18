@@ -63,7 +63,7 @@ content:
           [App Video Demo](https://youtu.be/qUnlPEq49bY "Youtube") - [App Images](https://imgur.com/a/zHOiyAa "Imgur")
 
           <p style="width: 100%; text-align: center">App Preview:</p>
-          <img src="https://i.imgur.com/prkdCjV.png" alt="App preview" width="400" style="width: 100%; display: flex; margin-left: auto; margin-right: auto" />
+          <img src="https://i.imgur.com/prkdCjV.png" alt="App preview" width="400" style="display: flex; margin-left: auto; margin-right: auto" />
 
       - layout: top-middle
         title: Game Store
@@ -79,7 +79,10 @@ content:
           After more than half a year of learning vanilla Javascript, I started this project as an introduction to the front-end world of the web development by using the most popular JS library - <mark>React</mark>.
           The app was built by using <mark>Vite</mark> framework and there is no back-end so it's not fully functional but it does have a beautiful modern design.
 
-          App Images:
+          [App Images](https://imgur.com/a/QnkGU90 "Imgur")
+
+          <p style="width: 100%; text-align: center">App Preview:</p>
+          <img src="https://i.imgur.com/PQtpbJM.png" alt="App preview" width="400" style="display: flex; margin-left: auto; margin-right: auto" />
       
       - layout: top-middle
         title: Weather App
