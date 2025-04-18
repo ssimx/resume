@@ -60,12 +60,10 @@ content:
           Until this point, I was using Javascript for all my projects but for this project, I decided to take a step forward and learn <mark>Typescript</mark>.
           It took me 6 months to build this application, and it has grown into a fully fledged app. I have learned many new skills and I am very proud to be able to show a slightly more serious project in my portfolio.
           
-          <div style="width: full; display: flex; justify-items: center">
-            [App Video Demo](https://youtu.be/qUnlPEq49bY "Youtube") [App Images](https://imgur.com/a/zHOiyAa "Imgur")
+          [App Video Demo](https://youtu.be/qUnlPEq49bY "Youtube") [App Images](https://imgur.com/a/zHOiyAa "Imgur")
 
-            App Preview:
-            <img src="https://i.imgur.com/prkdCjV.png" alt="App preview" width="700" />
-          </div>
+          <p style="width: full; display: flex; margin-left: auto; margin-right: auto">App Preview:</p>
+          <img src="https://i.imgur.com/prkdCjV.png" alt="App preview" width="400" style="width: full; display: flex; margin-left: auto; margin-right: auto" />
 
       - layout: top-middle
         title: Game Store
