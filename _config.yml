@@ -53,12 +53,12 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Full stack social media application that replicates X's (formerly known as Twitter) core functionality
+          Full stack social media NextJs application that replicates X's (formerly known as Twitter) core functionality
         description: | # this will include new lines to allow paragraphs
-          I started this project with the intention of expanding my knowledge of <mark>React</mark> by learning one of the modern frameworks, and I decided on <mark>NextJs</mark>, as it is currently very popular.
-          In addition to front-end programming, I was also interested in the back-end, so I decided to implement a separate API using <mark>NodeJs</mark> & <mark>ExpressJs</mark> and <mark>PostgreSQL</mark> & <mark>Prisma ORM</mark> tech stack.
-          Until this point, I was using Javascript for all my projects but for this project, I decided to take a step forward and learn <mark>Typescript</mark>.
-          It took me 6 months to build this application, and it has grown into a fully fledged app. I have learned many new skills and I am very proud to be able to show a slightly more serious project in my portfolio.
+          I began this project with the goal of enhancing my <mark>React</mark> skills by learning one of the modern frameworks, ultimately selecting <mark>NextJs</mark> because of its robust features and growing adoption in the industry.
+          Beyond front-end development, I wanted to explore back-end programming, so I implemented a separate API using <mark>NodeJs</mark> & <mark>ExpressJs</mark> with <mark>PostgreSQL</mark> & <mark>Prisma ORM</mark> as my tech stack.
+          Having used JavaScript exclusively for my previous projects, I decided to challenge myself by learning and implementing <mark>Typescript</mark> for this application.
+          The project took 6 months to complete and evolved into a comprehensive application. Through this process, I gained valuable new skills and I am pleased to include this more substantial project in my portfolio.
           
           [App Video Demo](https://youtu.be/qUnlPEq49bY "Youtube") - [App Images](https://imgur.com/a/zHOiyAa "Imgur")
 
@@ -76,7 +76,7 @@ content:
             icon: fab fa-github
             url: github.com/ssimx/games-store
         quote: >
-          Front end application that replicates Epic Games Store design
+          Front-end React application that replicates Epic Games Store design
         description: | # this will include new lines to allow paragraphs
           After more than half a year of learning vanilla Javascript, I started this project as an introduction to the front-end world of the web development by using the most popular JS library - <mark>React</mark>.
           The app was built by using <mark>Vite</mark> framework and there is no back-end so it's not fully functional but it does have a beautiful modern design.
@@ -97,7 +97,7 @@ content:
             icon: fab fa-github
             url: github.com/ssimx/weather-app
         quote: >
-          Vanilla Javascript application that replicates Apple Weather design
+          Vanilla Javascript front-end application that replicates Apple Weather design
         description: | # this will include new lines to allow paragraphs
           This project significantly improved my <mark>vanilla JS</mark> skills. After completing it, I felt ready to begin learning React, 
           though I still had to complete a few vanilla JS projects before making that transition. Now I can comfortably say that unlike many
