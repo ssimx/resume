@@ -9,7 +9,6 @@ version: 2
 name: Simon Simić
 title: Full Stack Web Developer
 email: simicsimon99@gmail.com
-website: 
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -178,7 +177,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at ŠC Nova Gorica, I learned mostly about system administration and networks. There was some web development covered, but nothing significant. 
           I feel like this was not useful for me, which is why I still need to write my diploma thesis and actually graduate. 
-          Instead of 'wasting' my time on that, I decided I would rather spend my time learning how to program until I land a job and only then focus on the diploma.
+          Instead of 'wasting' my time on that, I decided I would rather spend my time learning how to code until I land a job and only then focus on the diploma.
+          I appreciate employers that value knowledge over piece of paper, which in my opinion is not that important in this industry.
 
   - title: A Little More About Me
     layout: text
