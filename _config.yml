@@ -63,7 +63,9 @@ content:
           [App Video Demo](https://youtu.be/qUnlPEq49bY "Youtube") - [App Images](https://imgur.com/a/zHOiyAa "Imgur")
 
           <p style="width: 100%; text-align: center">App Preview:</p>
-          <img src="https://i.imgur.com/prkdCjV.png" alt="App preview" width="400" style="display: flex; margin-left: auto; margin-right: auto" />
+          <a href="https://i.imgur.com/prkdCjV.png" target="_blank" style="display: flex; margin-left: auto; margin-right: auto">
+            <img src="https://i.imgur.com/prkdCjV.png" alt="App preview" width="400" />
+          </a>
 
       - layout: top-middle
         title: Game Store
@@ -82,11 +84,13 @@ content:
           [App Images](https://imgur.com/a/QnkGU90 "Imgur")
 
           <p style="width: 100%; text-align: center">App Preview:</p>
-          <img src="https://i.imgur.com/PQtpbJM.png" alt="App preview" width="400" style="display: flex; margin-left: auto; margin-right: auto" />
+          <a href="https://i.imgur.com/PQtpbJM.png" target="_blank" style="display: flex; margin-left: auto; margin-right: auto">
+            <img src="https://i.imgur.com/PQtpbJM.png" alt="App preview" width="400" />
+          </a>
       
       - layout: top-middle
         title: Weather App
-        link: 
+        link: dazzling-cendol-9e6bec.netlify.app
         # link_text: Project Website
         additional_links:
           - title:  ssimx/weather-app
@@ -95,10 +99,16 @@ content:
         quote: >
           Vanilla Javascript application that replicates Apple Weather design
         description: | # this will include new lines to allow paragraphs
-          This project is where I believe I "mastered" <mark>vanilla JS</mark>. I must admit that I'm very proud of this project. 
-          In my opinion, this is what allows me to say that unlike other junior developers who only know how to "React", I actually know how to "JavaScript".
+          This project significantly improved my <mark>vanilla JS</mark> skills. After completing it, I felt ready to begin learning React, 
+          though I still had to complete a few vanilla JS projects before making that transition. Now I can comfortably say that unlike many
+          juniors who only know how to "React", I actually know how to Javascript.
 
-          App Images:
+          [App Images](https://imgur.com/a/SnTlaq4 "Imgur")
+
+          <p style="width: 100%; text-align: center">App Preview:</p>
+          <a href="https://i.imgur.com/vo1GAkT.png" target="_blank" style="display: flex; margin-left: auto; margin-right: auto">
+            <img src="https://i.imgur.com/vo1GAkT.png" alt="App preview" width="400" />
+          </a>
 
       - layout: top-middle
         quote: >
