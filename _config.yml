@@ -18,15 +18,6 @@ github_username:  ssimx
 instagram_username: simonsimic_
 linkedin_username: simon-simic
 
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
 # About Section
 about_title: About Me
 about_profile_image: images/profile.jpg
