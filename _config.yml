@@ -54,7 +54,7 @@ content:
 
           <p style="width: 100%; text-align: center">App Preview:</p>
           <a href="https://imgur.com/a/zHOiyAa" target="_blank" style="width: fit-content; display: flex; margin-left: auto; margin-right: auto">
-            <img src="https://i.imgur.com/prkdCjV.png" alt="App preview" width="400" />
+            <img src="images/tweetly.png" alt="App preview" width="400" />
           </a>
 
       - layout: top-middle
@@ -75,7 +75,7 @@ content:
 
           <p style="width: 100%; text-align: center">App Preview:</p>
           <a href="https://imgur.com/a/QnkGU90" target="_blank" style="width: fit-content; display: flex; margin-left: auto; margin-right: auto">
-            <img src="https://i.imgur.com/PQtpbJM.png" alt="App preview" width="400" />
+            <img src="images/store.png" alt="App preview" width="400" />
           </a>
       
       - layout: top-middle
@@ -97,7 +97,7 @@ content:
 
           <p style="width: 100%; text-align: center">App Preview:</p>
           <a href="https://imgur.com/a/SnTlaq4" target="_blank" style="width: fit-content; display: flex; margin-left: auto; margin-right: auto">
-            <img src="https://i.imgur.com/vo1GAkT.png" alt="App preview" width="400" />
+            <img src="images/weather.png" alt="App preview" width="400" />
           </a>
 
       - layout: top-middle
